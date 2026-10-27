@@ -58,17 +58,6 @@ Just sign up, get your API key, and connect your MCP client.
 
 ---
 
-## 🏠 Self-Hosting Options
-
-Prefer to run n8n-MCP yourself? Choose your deployment method:
-
-### Option A: npx (Quick Local Setup) 🚀
-
-Get n8n-MCP running in minutes:
-
-[![n8n-mcp Video Quickstart Guide](./thumbnail.png)](https://youtu.be/5CccjiLLyaY?si=Z62SBGlw9G34IQnQ&t=343)
-
-**Prerequisites:** [Node.js](https://nodejs.org/) installed on your system
 
 ```bash
 # Run directly with npx (no installation needed!)
@@ -511,13 +500,6 @@ Complete guide for integrating n8n-MCP with Codex.
 ### [Antigravity](./docs/ANTIGRAVITY_SETUP.md)
 Complete guide for integrating n8n-MCP with Antigravity.
 
-## 🎓 Add Claude Skills (Optional)
-
-Supercharge your n8n workflow building with specialized skills that teach AI how to build production-ready workflows!
-
-[![n8n-mcp Skills Setup](./docs/img/skills.png)](https://www.youtube.com/watch?v=e6VvRqmUY2Y)
-
-Learn more: [n8n-skills repository](https://github.com/czlonkowski/n8n-skills)
 
 ## 🤖 Claude Project Setup
 
