@@ -511,13 +511,6 @@ Complete guide for integrating n8n-MCP with Codex.
 ### [Antigravity](./docs/ANTIGRAVITY_SETUP.md)
 Complete guide for integrating n8n-MCP with Antigravity.
 
-## 🎓 Add Claude Skills (Optional)
-
-Supercharge your n8n workflow building with specialized skills that teach AI how to build production-ready workflows!
-
-[![n8n-mcp Skills Setup](./docs/img/skills.png)](https://www.youtube.com/watch?v=e6VvRqmUY2Y)
-
-Learn more: [n8n-skills repository](https://github.com/czlonkowski/n8n-skills)
 
 ## 🤖 Claude Project Setup
 
